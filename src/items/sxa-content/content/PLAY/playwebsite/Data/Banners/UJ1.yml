@@ -1,0 +1,20 @@
+﻿---
+ID: "6b4e4093-43c4-4087-8bf1-24462eaaa0ca"
+Parent: "3bf5d3c1-d52a-430e-aeb0-1832be8dfc92"
+Template: "df18c4fc-2d81-4da7-9530-aa946e3dfd7b"
+Path: /sitecore/content/PLAY/playwebsite/Data/Banners/UJ1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "038aef3e-a737-41cb-a21b-11e229a7bab7"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b63c3b69-fa50-415f-bc72-3c98801b656e"
+    - ID: "a1dc13e6-430e-43a4-bee9-89c5990b7588"
+      Hint: BannerText
+      Value: User Journey 1 Text

@@ -1,0 +1,20 @@
+﻿---
+ID: "02404f81-3139-4763-b355-1018269334ed"
+Parent: "3bf5d3c1-d52a-430e-aeb0-1832be8dfc92"
+Template: "df18c4fc-2d81-4da7-9530-aa946e3dfd7b"
+Path: /sitecore/content/PLAY/playwebsite/Data/Banners/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "038aef3e-a737-41cb-a21b-11e229a7bab7"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8ad6d5c-c97f-4c83-9197-044c9648e3e4"
+    - ID: "a1dc13e6-430e-43a4-bee9-89c5990b7588"
+      Hint: BannerText
+      Value: Default text

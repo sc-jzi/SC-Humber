@@ -1,0 +1,17 @@
+﻿---
+ID: "3bf5d3c1-d52a-430e-aeb0-1832be8dfc92"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/Banners
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{DF18C4FC-2D81-4DA7-9530-AA946E3DFD7B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5c697a1-5cb1-4f7f-b563-51b0a742e068"

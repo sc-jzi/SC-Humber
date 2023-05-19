@@ -1,8 +1,8 @@
 ﻿---
-ID: "d69792ef-02b2-4674-83f1-5b98d3843e99"
-Parent: "24ba86be-f91e-4a65-8b58-0efa3a8ee49a"
-Template: "24ba86be-f91e-4a65-8b58-0efa3a8ee49a"
-Path: /sitecore/templates/Project/Humber/Rendering Templates/MarketingBanner/__Standard Values
+ID: "c531f7bc-e4b6-465c-b6b9-52e8bf1f41df"
+Parent: "564f95e8-0f69-4a42-b74e-5501ae4ad1e7"
+Template: "564f95e8-0f69-4a42-b74e-5501ae4ad1e7"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Banner/__Standard Values
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4e35a2ed-87bd-4e6a-96eb-8750e5f39985"
+      Value: "ee67f893-2ef0-4037-b616-26510014b48c"
 - Language: "fr-CA"
   Versions:
   - Version: 1

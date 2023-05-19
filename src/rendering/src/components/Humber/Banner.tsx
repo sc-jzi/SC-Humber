@@ -6,14 +6,14 @@ import {
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 
-export type MarketingBannerProps = ComponentProps & {
+export type BannerProps = ComponentProps & {
     fields: {
         BannerImage: ImageField,
         BannerText: TextField
     }
 }
 
-const MarketingBanner = (props: MarketingBannerProps): JSX.Element => {
+const Banner = (props: BannerProps): JSX.Element => {
     return (
         <section className="slide-in-right-animation SectionGenericBlockItem-SlickSliderBlock section-padding section-padding-none in-view">
             <div className="container-npm">
@@ -49,4 +49,4 @@ const MarketingBanner = (props: MarketingBannerProps): JSX.Element => {
 }
 
 
-export const Default = MarketingBanner;
+export const Default = Banner;

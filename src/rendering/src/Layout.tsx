@@ -91,6 +91,18 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
         </div>
       </QueryClientProvider>
       {/* END CUSTOMIZATION */}
+
+      <section className="SectionGenericBlockItem-CustomCodeBlock"
+        dangerouslySetInnerHTML={{ __html:
+          `<script>
+                window.GeckoChatSettings = {
+                    account_id: '4G6H4bNkHvkY5XI',
+                    auto_boot: true
+                };
+            </script>
+            <script src="https://embed.geckochat.io"></script>`
+        }}
+      ></section>
     </>
   );
 };

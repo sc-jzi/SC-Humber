@@ -10,6 +10,8 @@ import { identifyVisitor } from '../services/IdentificationService';
 import { KeypressHandler } from '../services/KeypressHandlerService';
 import { config } from '@fortawesome/fontawesome-svg-core';
 import '@fortawesome/fontawesome-svg-core/styles.css';
+import 'assets/css/humber/humber1.css'; // DEMO TEAM CUSTOMIZATION - Different CSS file name.
+import 'assets/css/humber/humber2.css'; // DEMO TEAM CUSTOMIZATION - Different CSS file name.
 config.autoAddCss = false;
 // END CUSTOMIZATION
 

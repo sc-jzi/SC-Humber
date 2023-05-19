@@ -1,0 +1,20 @@
+﻿---
+ID: "76bfa60b-8e9b-448e-af9a-7efa2247e2d1"
+Parent: "3bf5d3c1-d52a-430e-aeb0-1832be8dfc92"
+Template: "df18c4fc-2d81-4da7-9530-aa946e3dfd7b"
+Path: /sitecore/content/PLAY/playwebsite/Data/Banners/UJ2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "038aef3e-a737-41cb-a21b-11e229a7bab7"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20dfec54-0d1b-4183-ba69-617a6197e97f"
+    - ID: "a1dc13e6-430e-43a4-bee9-89c5990b7588"
+      Hint: BannerText
+      Value: User Journey 2 Text
