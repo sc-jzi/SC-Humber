@@ -1,7 +1,7 @@
 {
     "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
     "namespace": "HeadlessSxaWebsite-Content",
-    "references": [ "HeadlessSxaWebsite" ],
+    "references": [ "HeadlessSxaWebsite", "Humber" ],
     "items": {
         "includes": [
             {

@@ -1,0 +1,20 @@
+﻿---
+ID: "a2336374-212e-481c-836e-4f1fd4550e1a"
+Parent: "54b929b8-69f8-489c-a248-7069534f0762"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Humber/MarketingBanner/Data/BannerText
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fafc6623-cee0-431f-a8c3-9b83d18dc36c"

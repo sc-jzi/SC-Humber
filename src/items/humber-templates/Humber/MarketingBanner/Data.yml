@@ -1,0 +1,13 @@
+﻿---
+ID: "54b929b8-69f8-489c-a248-7069534f0762"
+Parent: "c38acee2-2dd2-4c19-af42-eb61b974ec1b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Humber/MarketingBanner/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7361b922-f23b-48e3-85d7-3fcfb472e734"

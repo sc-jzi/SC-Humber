@@ -1,0 +1,13 @@
+﻿---
+ID: "fd13c037-d8bb-479c-9130-633c7eabcc40"
+Parent: "21c8471d-461b-43e0-abd7-3cf933b26d2f"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Humber/Rendering Templates
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f8c93f9-1a9d-4df7-9adf-7d9d61562a8f"
