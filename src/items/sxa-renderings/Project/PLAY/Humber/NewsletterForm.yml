@@ -1,0 +1,17 @@
+﻿---
+ID: "a09d938d-b94e-440d-b60a-8638d90d07ef"
+Parent: "86ca809c-a911-46a3-99bc-00e0a16d7e39"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/Humber/NewsletterForm
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: NewsletterForm
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "942783fd-3eae-46f3-ab07-30ca72915bd7"
