@@ -20,9 +20,9 @@ const Banner = (props: BannerProps): JSX.Element => {
                 <div className="row no-gutters">
                     <div className="col-lg-12">
                         <div className="slick-slider-block full-width-slider slick-initialized slick-slider" id="slick-slider-block-0" data-slides-to-show="1" data-slides-arrows="1" data-slides-to-scroll="1" data-slides-autoplay="1" data-slides-autoplay-speed="" style={{marginBottom: 0}}>
-                            <div aria-live="polite" className="slick-list draggable" style={{height: 1060}}>
+                            <div aria-live="polite" className="slick-list draggable">
                                 <div className="slick-track" style={{opacity: 1, width: 2543 }}>
-                                    <div className="slick-slide slick-active" data-slick-index="0" aria-hidden="false" style={{width: 2543}}>
+                                    <div className="slick-slide slick-active" data-slick-index="0" aria-hidden="false">
                                         <div className="banner-home-wrap-buttons customized no-btn-hover">
                                             <JssImage field={props.fields.BannerImage} />
                                             <div className="buttons">
