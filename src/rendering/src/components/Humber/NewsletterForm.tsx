@@ -2,7 +2,7 @@
 const NewsletterForm = (): JSX.Element => {
     return (
     <>
-        <div data-mooform-id="e544ff5a-0485-4837-9b48-7d12338523fe" cssClass="marginAuto" ></div>
+        <div data-mooform-id="e544ff5a-0485-4837-9b48-7d12338523fe" className="marginAuto" ></div>
 
         <script
             dangerouslySetInnerHTML={{ __html:
