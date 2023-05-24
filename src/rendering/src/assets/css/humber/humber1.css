@@ -1,6 +1,9 @@
 .clearfix {
   *zoom: 1;
 }
+.marginAuto {
+  margin: 0 auto;
+}
 .clearfix:before,
 .clearfix:after {
   display: table;
