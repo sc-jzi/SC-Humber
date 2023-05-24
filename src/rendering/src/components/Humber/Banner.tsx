@@ -29,11 +29,11 @@ const Banner = (props: BannerProps): JSX.Element => {
                                                 <div className="inner-wrap">
                                                     <h1 style={{color: "black"}}><Text field={props.fields.BannerText} /></h1>
                                                     <div className="bottom-links-wrp">
-                                                        <a className="btn" style={{backgroundColor: '#004b78', color: '#fff'}} href="continuous-professional-learning/programs.html">Program Duration<span className="wsnw">&nbsp;</span></a> 
-                                                        <a className="btn" style={{backgroundColor: '#004b78', color: '#fff'}}  href="continuous-professional-learning/courses.html">Fees & Financial Resources<span className="wsnw">&nbsp;</span></a> 
-                                                        <a className="btn" style={{backgroundColor: '#004b78', color: '#fff'}}  href="continuous-professional-learning/micro-credentials.html">Language Requirements<span className="wsnw">&nbsp;</span></a>
+                                                        <a className="btn" style={{backgroundColor: '#004b78', color: '#fff'}} href="continuous-professional-learning/programs">Program Duration<span className="wsnw">&nbsp;</span></a> 
+                                                        <a className="btn" style={{backgroundColor: '#004b78', color: '#fff'}}  href="continuous-professional-learning/courses">Fees & Financial Resources<span className="wsnw">&nbsp;</span></a> 
+                                                        <a className="btn" style={{backgroundColor: '#004b78', color: '#fff'}}  href="continuous-professional-learning/micro-credentials">Language Requirements<span className="wsnw">&nbsp;</span></a>
                                                     </div>
-                                                    <p><strong>Learn more about all <a className="btn btn-plain p-0 mt-0" style={{color: '#005173'}} href="continuous-professional-learning/search-all.html">professional learning options.</a></strong></p>
+                                                    <p><strong>Learn more about all <a className="btn btn-plain p-0 mt-0" style={{color: '#005173'}} href="continuous-professional-learning/search-all">professional learning options.</a></strong></p>
                                                 </div>
                                             </div>
                                         </div>
